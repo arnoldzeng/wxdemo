@@ -1,0 +1,4 @@
+/* pages/test/test.wxss */
+.slide-image{
+    width:100%
+}
